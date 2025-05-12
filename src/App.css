@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.content-area {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    .content-area {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+    }
+}

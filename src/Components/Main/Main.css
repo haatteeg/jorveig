@@ -1,0 +1,23 @@
+.main-content {
+    flex: 1;
+    padding: 20px;
+    background-color: #ffffff;
+    overflow-y: auto;
+}
+
+.main-content h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.main-content h2 {
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.main-content p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
