@@ -4,7 +4,7 @@ export const useData = () => {
     const [vocab, setVocab] = useState([]);
 
     useEffect(() => {
-        fetch("/data/vocab.json")
+        fetch(process.env.PUBLIC_URL + "/data/vocab.json")
             .then(res => res.json())
             .then(data => {
                 setVocab(data);
