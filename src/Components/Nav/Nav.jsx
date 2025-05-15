@@ -5,6 +5,7 @@ import { Search } from '../Search/Search';
 export const Nav = () => {
     return (
         <nav className="navigation-bar">
+            <h1>Jorveig</h1>
             <Search />
             <ul className="nav-links">
                 <li><a href="#home">Home</a></li>

@@ -1,11 +1,13 @@
-import { Mock } from '../Mock';
 import './Main.css';
 import React from 'react';
+import { Random } from '../Random/Random';
 
-export const Main = () => {
+export const Main = ({ data }) => {
     return (
         <div className="main-content">
-            <Mock />
+            <div className='container'>
+                <Random vocab={data.vocab} />
+            </div>
         </div>
     );
 };
