@@ -2,6 +2,11 @@ body {
     background-color: #19161f;
 }
 
+.container {
+    margin: unset;
+    padding: unset;
+}
+
 .main-content {
     background-color: unset;
     align-items: center;
