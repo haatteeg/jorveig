@@ -25,4 +25,6 @@ yarn-error.log*
 #temp
 /src
 /public
+package-lock.json
+package.json
 plant.txt
