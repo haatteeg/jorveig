@@ -16,16 +16,29 @@ export const Random = ({ vocab }) => {
     useEffect(() => {
         if (!vocab || vocab.length === 0) return;
 
-        const pickRandom = () => {
+        const stored = localStorage.getItem("randomWord");
+        let initial = null;
+        if (stored) {
+            try {
+                const parsed = JSON.parse(stored);
+                if (parsed && vocab.some(v => v.word === parsed.word)) {
+                    initial = parsed;
+                }
+            } catch { }
+        }
+        if (initial) {
+            setCurrent(initial);
+        } else {
             const idx = Math.floor(Math.random() * vocab.length);
             setCurrent(vocab[idx]);
         }
-
-        pickRandom();
-        const interval = setInterval(pickRandom, 6500);
-
-        return () => clearInterval(interval);
     }, [vocab]);
+
+    useEffect(() => {
+        if (current) {
+            localStorage.setItem("randomWord", JSON.stringify(current));
+        }
+    }, [current]);
 
     useEffect(() => {
         if (!current) return;
@@ -46,10 +59,18 @@ export const Random = ({ vocab }) => {
             );
         }, 50);
 
-        function lockNext() {
+        const lockNext = () => {
             lockIndex++;
             if (lockIndex > word.length) {
                 clearInterval(intervalRef.current);
+
+                timeoutRef.current = setTimeout(() => {
+                    let idx;
+                    do {
+                        idx = Math.floor(Math.random() * vocab.length);
+                    } while (vocab[idx].word === current.word && vocab.length > 1);
+                    setCurrent(vocab[idx]);
+                }, 6500);
                 return;
             }
             timeoutRef.current = setTimeout(lockNext, 100);
@@ -60,7 +81,7 @@ export const Random = ({ vocab }) => {
             clearInterval(intervalRef.current);
             clearTimeout(timeoutRef.current);
         };
-    }, [current]);
+    }, [current, vocab]);
 
     if (!current) return null;
 
