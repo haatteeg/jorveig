@@ -87,7 +87,7 @@ export const Random = ({ vocab }) => {
 
     return (
         <div className="random-word">
-            <h2 style={{ letterSpacing: "0.1em", fontFamily: "monospace" }}>
+            <h2 style={{ letterSpacing: "0.1em", fontFamily: "monospace", wordBreak: "break-all" }}>
                 {displayed.map((ch, i) => {
                     const isLocked = ch === current.word[i];
                     return (
@@ -102,7 +102,9 @@ export const Random = ({ vocab }) => {
                     );
                 })}
             </h2>
-            <p key={current.meaning} className="fade-in">{current.meaning}</p>
+            <p style={{ wordBreak: "break-all" }}
+                key={current.meaning}
+                className="fade-in">{current.meaning}</p>
         </div>
     );
 };
