@@ -1,0 +1,28 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.container {
+    max-width: 1170px;
+    width: var(--container-max-width);
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.content-area {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    .content-area {
+        flex-direction: column;
+    }
+
+    .sidebar {
+        width: 100%;
+    }
+}

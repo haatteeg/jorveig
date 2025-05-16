@@ -1,0 +1,730 @@
+[
+    {
+        "word": "tveig",
+        "type": "neuter noun",
+        "meaning": "branch",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "vanhoep",
+        "type": "common noun",
+        "meaning": "despair",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "soer",
+        "type": "common noun",
+        "meaning": "sadness",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "hoep",
+        "type": "common noun",
+        "meaning": "hope",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leerdom",
+        "type": "common noun",
+        "meaning": "knowledge",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "heeven",
+        "type": "common noun",
+        "meaning": "heaven",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "veissep",
+        "type": "common noun",
+        "meaning": "science",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "brille",
+        "type": "common noun",
+        "meaning": "glasses",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "mos",
+        "type": "neuter noun",
+        "meaning": "moss",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "soe",
+        "type": "common noun",
+        "meaning": "shadow",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "boom",
+        "type": "common noun",
+        "meaning": "tree",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "foer",
+        "type": "neuter noun",
+        "meaning": "fire",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "auto",
+        "type": "common noun",
+        "meaning": "car",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "staur",
+        "type": "common noun",
+        "meaning": "store",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "daalmood",
+        "type": "common noun",
+        "meaning": "patience",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "entree",
+        "type": "common noun",
+        "meaning": "entrance",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "finger",
+        "type": "common noun",
+        "meaning": "finger",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "teid",
+        "type": "common noun",
+        "meaning": "time",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "teim",
+        "type": "common noun",
+        "meaning": "hour",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "eis",
+        "type": "common noun",
+        "meaning": "ice",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "eerhoendred",
+        "type": "common noun",
+        "meaning": "century",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leen",
+        "type": "neuter noun",
+        "meaning": "salary",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "speer",
+        "type": "common noun",
+        "meaning": "question",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "kveen",
+        "type": "common noun",
+        "meaning": "woman",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "freind",
+        "type": "common noun",
+        "meaning": "friend",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "fornuft",
+        "type": "common noun",
+        "meaning": "reason",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leiv",
+        "type": "neuter noun",
+        "meaning": "life",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "hoend",
+        "type": "common noun",
+        "meaning": "dog",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "hjol",
+        "type": "neuter noun",
+        "meaning": "wheel",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "aard",
+        "type": "common noun",
+        "meaning": "earth",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "dreeg",
+        "type": "common noun",
+        "meaning": "illusion",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "kveel",
+        "type": "common noun",
+        "meaning": "evening",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "maate",
+        "type": "common noun",
+        "meaning": "method",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "vindeej",
+        "type": "neuter noun",
+        "meaning": "window",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "eej",
+        "type": "neuter noun",
+        "meaning": "eye",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "seid",
+        "type": "common noun",
+        "meaning": "side",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "hoenger",
+        "type": "common noun",
+        "meaning": "hunger",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "goell",
+        "type": "neuter noun",
+        "meaning": "gold",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "bjor",
+        "type": "common noun",
+        "meaning": "beer",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "haal",
+        "type": "neuter noun",
+        "meaning": "hole",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "boi",
+        "type": "common noun",
+        "meaning": "boy",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "bedd",
+        "type": "neuter noun",
+        "meaning": "bed",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "gure",
+        "type": "common noun",
+        "meaning": "girl",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "daj",
+        "type": "common noun",
+        "meaning": "day",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leikaam",
+        "type": "common noun",
+        "meaning": "body",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "bern",
+        "type": "neuter noun",
+        "meaning": "child",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "hals",
+        "type": "common noun",
+        "meaning": "neck",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "soelder",
+        "type": "common noun",
+        "meaning": "shoulder",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "veder",
+        "type": "neuter noun",
+        "meaning": "weather",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "fell",
+        "type": "common noun",
+        "meaning": "skin",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "feedinndaj",
+        "type": "common noun",
+        "meaning": "birthday",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "book",
+        "type": "neuter noun",
+        "meaning": "book",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "broo",
+        "type": "common noun",
+        "meaning": "bridge",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leev",
+        "type": "neuter noun",
+        "meaning": "leaf",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "maan",
+        "type": "common noun",
+        "meaning": "moon",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "haar",
+        "type": "neuter noun",
+        "meaning": "hair",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "samvethaid",
+        "type": "common noun",
+        "meaning": "consciousness",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "snaav",
+        "type": "common noun",
+        "meaning": "snow",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "heed",
+        "type": "neuter noun",
+        "meaning": "head",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "brjost",
+        "type": "neuter noun",
+        "meaning": "breast",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "saar",
+        "type": "neuter noun",
+        "meaning": "wound",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "vante",
+        "type": "irregular verb",
+        "meaning": "to lack",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "see",
+        "type": "irregular verb",
+        "meaning": "to see",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leide",
+        "type": "irregular verb",
+        "meaning": "to suffer",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "sloete",
+        "type": "irregular verb",
+        "meaning": "to close",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "urete",
+        "type": "irregular verb",
+        "meaning": "to forget",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "grooe",
+        "type": "regular verb",
+        "meaning": "to grow",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "hoele",
+        "type": "regular verb",
+        "meaning": "to cry",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "roesle",
+        "type": "regular verb",
+        "meaning": "to rustle",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "sveere",
+        "type": "regular verb",
+        "meaning": "to swear",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "kan",
+        "type": "modal verb",
+        "meaning": "can",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "sjole",
+        "type": "regular verb",
+        "meaning": "to hide",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "oetstjore",
+        "type": "regular verb",
+        "meaning": "to equip",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "staa",
+        "type": "aa-verb",
+        "meaning": "stand",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "ljove",
+        "type": "regular verb",
+        "meaning": "to love",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "have",
+        "type": "irregular verb",
+        "meaning": "to have",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "forsveere",
+        "type": "regular verb",
+        "meaning": "to defend",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "gede",
+        "type": "irregular verb",
+        "meaning": "to get",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "fjoote",
+        "type": "irregular verb",
+        "meaning": "to fight",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "fljote",
+        "type": "irregular verb",
+        "meaning": "to fleet",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "ensulde",
+        "type": "regular verb",
+        "meaning": "to excuse",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "fille",
+        "type": "regular verb",
+        "meaning": "to fill",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leere",
+        "type": "regular verb",
+        "meaning": "to learn",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "veene",
+        "type": "regular verb",
+        "meaning": "to wait",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "loese",
+        "type": "regular verb",
+        "meaning": "to listen",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "jare",
+        "type": "regular verb",
+        "meaning": "to do",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "entveige",
+        "type": "regular verb",
+        "meaning": "to develop",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "sleepe",
+        "type": "regular verb",
+        "meaning": "to sleep",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "heite",
+        "type": "regular verb",
+        "meaning": "to call",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "broeke",
+        "type": "regular verb",
+        "meaning": "to use",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "marke",
+        "type": "regular verb",
+        "meaning": "to mark",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "drinke",
+        "type": "regular verb",
+        "meaning": "to drink",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leje",
+        "type": "regular verb",
+        "meaning": "to lay",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "mae",
+        "type": "regular verb",
+        "meaning": "to make",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "kene",
+        "type": "regular verb",
+        "meaning": "to know",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "leige",
+        "type": "regular verb",
+        "meaning": "to like",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "tenke",
+        "type": "regular verb",
+        "meaning": "to think",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "vese",
+        "type": "regular verb",
+        "meaning": "to be",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "heere",
+        "type": "regular verb",
+        "meaning": "to hear",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "seeke",
+        "type": "regular verb",
+        "meaning": "to seek",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "freeje",
+        "type": "regular verb",
+        "meaning": "to ask",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "blaase",
+        "type": "regular verb",
+        "meaning": "to blow",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "seje",
+        "type": "regular verb",
+        "meaning": "to say",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "starve",
+        "type": "regular verb",
+        "meaning": "to die",
+        "transcription": "",
+        "etymology": ""
+    }
+]

@@ -22,9 +22,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-#temp
-/src
-/public
-package-lock.json
-package.json
-plant.txt
+plan.txt

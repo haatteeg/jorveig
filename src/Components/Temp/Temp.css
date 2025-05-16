@@ -1,0 +1,17 @@
+body {
+    background-color: #19161f;
+}
+
+.main-content {
+    background-color: unset;
+    align-items: center;
+}
+
+span,
+p {
+    filter: invert(1);
+}
+
+.random-word {
+    margin: 0;
+}
