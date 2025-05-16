@@ -618,7 +618,7 @@
     {
         "word": "heite",
         "type": "regular verb",
-        "meaning": "to call",
+        "meaning": "to be called",
         "transcription": "",
         "etymology": ""
     },
@@ -726,5 +726,187 @@
         "meaning": "to die",
         "transcription": "",
         "etymology": ""
+    },
+    {
+        "word": "ei",
+        "type": "adverb",
+        "meaning": "ever",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "maese",
+        "type": "adverb",
+        "meaning": "maybe",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "frei",
+        "type": "adjective",
+        "meaning": "free",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "deed",
+        "type": "adjective",
+        "meaning": "dead",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "vidlees",
+        "type": "adjective",
+        "meaning": "mad",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "dit",
+        "type": "",
+        "meaning": "tight",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "nev",
+        "type": "adjective",
+        "meaning": "new",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "slei",
+        "type": "adjective",
+        "meaning": "such",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "moj",
+        "type": "adjective",
+        "meaning": "pretty",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "maktful",
+        "type": "adjective",
+        "meaning": "powerful",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "droej",
+        "type": "adjective",
+        "meaning": "dry",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "joda",
+        "type": "adverb",
+        "meaning": "today",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "oet",
+        "type": "adverb",
+        "meaning": "out",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "oener",
+        "type": "adverb",
+        "meaning": "under",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "oer",
+        "type": "about",
+        "meaning": "",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "heer",
+        "type": "adverb",
+        "meaning": "here",
+        "transcription": "",
+        "etymology": ""
+    },
+    {
+        "word": "boeve",
+        "type": "regular verb",
+        "meaning": "",
+        "transcription": "/bœy̯və/",
+        "etymology": "from proto-germanic: būaną->bœwen->bœwe->boeve"
+    },
+    {
+        "word": "faame",
+        "type": "regular verb",
+        "meaning": "to hug",
+        "transcription": "/'faːmə/",
+        "etymology": "from old norse: faðma->fadme->faame"
+    },
+    {
+        "word": "aajne",
+        "type": "regular verb",
+        "meaning": "begin",
+        "transcription": "/a:jnə/",
+        "etymology": "from proto-germanic: anaginnan-> āginnen->aaginne->aajne"
+    },
+    {
+        "word": "aide",
+        "type": "common noun",
+        "meaning": "aid",
+        "transcription": "/aidə/",
+        "etymology": "from old french: aide->aide->aide"
+    },
+    {
+        "word": "oon",
+        "type": "preposition",
+        "meaning": "without",
+        "transcription": "/un/",
+        "etymology": "from proto-germanic: ēnu->ōne->oone->oon"
+    },
+    {
+        "word": "forbjode",
+        "type": "irregular verb",
+        "meaning": "to forbid",
+        "transcription": "/foəbødə/",
+        "etymology": "from proto-germanic: furibeudaną->forbiūden->forbuude->forbjode"
+    },
+    {
+        "word": "bern",
+        "type": "neuter noun",
+        "meaning": "child",
+        "transcription": "/'bɛən/",
+        "etymology": "from proto-germanic: barną->barn->bern->bern"
+    },
+    {
+        "word": "aan",
+        "type": "number",
+        "meaning": "one",
+        "transcription": "/a:n/",
+        "etymology": "from proto-germanic: ainaz->ain->aan->aan"
+    },
+    {
+        "word": "fjor",
+        "type": "number",
+        "meaning": "four",
+        "transcription": "/'føə/",
+        "etymology": "from proto-west-germanic: feuwar->fiūwer->fuur->fjor"
+    },
+    {
+        "word": "aate",
+        "type": "number",
+        "meaning": "eight",
+        "transcription": "/a:tə/",
+        "etymology": "from proto-germanic: ahtōu->ahta->ahte->aate"
     }
 ]
