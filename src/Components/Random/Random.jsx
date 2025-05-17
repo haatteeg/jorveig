@@ -2,9 +2,28 @@ import { useEffect, useState, useRef } from "react";
 import './Random.css';
 
 const LATIN = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const HISTORY_KEY = "randomWordHistory";
+const HISTORY_DURATION = 60 * 1000;
 
 const getRandomLetter = () => {
     return LATIN[Math.floor(Math.random() * LATIN.length)];
+};
+
+function getRecentHistory() {
+    const now = Date.now();
+    try {
+        const arr = JSON.parse(localStorage.getItem(HISTORY_KEY)) || [];
+        return arr.filter(entry => now - entry.time < HISTORY_DURATION);
+    } catch {
+        return [];
+    }
+}
+
+function addToHistory(word) {
+    const now = Date.now();
+    const history = getRecentHistory();
+    history.push({ word, time: now });
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
 }
 
 export const Random = ({ vocab }) => {
@@ -29,14 +48,14 @@ export const Random = ({ vocab }) => {
         if (initial) {
             setCurrent(initial);
         } else {
-            const idx = Math.floor(Math.random() * vocab.length);
-            setCurrent(vocab[idx]);
+            pickNewWord();
         }
     }, [vocab]);
 
     useEffect(() => {
         if (current) {
             localStorage.setItem("randomWord", JSON.stringify(current));
+            addToHistory(current.word);
         }
     }, [current]);
 
@@ -59,17 +78,12 @@ export const Random = ({ vocab }) => {
             );
         }, 50);
 
-        const lockNext = () => {
+        function lockNext() {
             lockIndex++;
             if (lockIndex > word.length) {
                 clearInterval(intervalRef.current);
-
                 timeoutRef.current = setTimeout(() => {
-                    let idx;
-                    do {
-                        idx = Math.floor(Math.random() * vocab.length);
-                    } while (vocab[idx].word === current.word && vocab.length > 1);
-                    setCurrent(vocab[idx]);
+                    pickNewWord();
                 }, 6500);
                 return;
             }
@@ -83,11 +97,25 @@ export const Random = ({ vocab }) => {
         };
     }, [current, vocab]);
 
+    function pickNewWord() {
+        if (!vocab || vocab.length === 0) return;
+        const history = getRecentHistory();
+        const recentWords = new Set(history.map(entry => entry.word));
+        const available = vocab.filter(v => !recentWords.has(v.word));
+        let next;
+        if (available.length > 0) {
+            next = available[Math.floor(Math.random() * available.length)];
+        } else {
+            next = vocab[Math.floor(Math.random() * vocab.length)];
+        }
+        setCurrent(next);
+    }
+
     if (!current) return null;
 
     return (
         <div className="random-word">
-            <h2 style={{ letterSpacing: "0.1em", fontFamily: "monospace", wordBreak: "break-all" }}>
+            <h2 style={{ letterSpacing: "0.1em", fontFamily: "monospace" }}>
                 {displayed.map((ch, i) => {
                     const isLocked = ch === current.word[i];
                     return (

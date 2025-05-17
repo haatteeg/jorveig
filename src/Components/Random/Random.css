@@ -10,6 +10,12 @@
     font-size: 53px;
 }
 
+.random-word h2,
+p {
+    text-align: center;
+    word-break: break-word;
+}
+
 .scrambling {
     filter: blur(0.8px) brightness(0.8);
     color: #444;
