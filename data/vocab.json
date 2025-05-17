@@ -4,909 +4,1429 @@
         "type": "neuter noun",
         "meaning": "branch",
         "transcription": "",
-        "etymology": "from proto-gemanic: twīgą->twīg->tviig->tveig"
+        "origin": "proto-germanic",
+        "origin word": "twīgą",
+        "old jotisk": "twīg",
+        "middle jotisk": "tviig",
+        "modern jotisk": "tveig"
     },
     {
         "word": "vanhoep",
         "type": "common noun",
         "meaning": "despair",
         "transcription": "",
-        "etymology": "from proto-germanic: wana- + hopō->wanahope->vanhupe->vanhoep"
+        "origin": "proto-germanic",
+        "origin word": "wana- + hopō",
+        "old jotisk": "wanahope",
+        "middle jotisk": "vanhupe",
+        "modern jotisk": "vanhoep"
     },
     {
         "word": "soer",
         "type": "common noun",
         "meaning": "sadness",
         "transcription": "",
-        "etymology": "from proto-germanic: surgō->sorge->sorje->soer"
+        "origin": "proto-germanic",
+        "origin word": "surgō",
+        "old jotisk": "sorge",
+        "middle jotisk": "sorje",
+        "modern jotisk": "soer"
     },
     {
         "word": "hoepe",
         "type": "regular verb",
         "meaning": "to hope",
         "transcription": "",
-        "etymology": "from proto-germanic: hopōn->hopen->hupe->hoepe"
+        "origin": "proto-germanic",
+        "origin word": "hopōn",
+        "old jotisk": "hopen",
+        "middle jotisk": "hupe",
+        "modern jotisk": "hoepe"
     },
     {
         "word": "leerdom",
         "type": "common noun",
         "meaning": "knowledge",
         "transcription": "",
-        "etymology": "from proto-west-germanic: liʀnōn + -dōm->lirdōm->lirdoom->leerdom"
+        "origin": "proto-west-germanic",
+        "origin word": "liʀnōn + -dōm",
+        "old jotisk": "lirdōm",
+        "middle jotisk": "lirdoom",
+        "modern jotisk": "leerdom"
     },
     {
         "word": "heeven",
         "type": "common noun",
         "meaning": "heaven",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "veissep",
         "type": "common noun",
         "meaning": "science",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "brille",
         "type": "common noun",
         "meaning": "glasses",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "mos",
         "type": "neuter noun",
         "meaning": "moss",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "soe",
         "type": "common noun",
         "meaning": "shadow",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "boom",
         "type": "common noun",
         "meaning": "tree",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "foer",
         "type": "neuter noun",
         "meaning": "fire",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "auto",
         "type": "common noun",
         "meaning": "car",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "staur",
         "type": "common noun",
         "meaning": "store",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "daalmood",
         "type": "common noun",
         "meaning": "patience",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "entree",
         "type": "common noun",
         "meaning": "entrance",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "finger",
         "type": "common noun",
         "meaning": "finger",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "teid",
         "type": "common noun",
         "meaning": "time",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "teim",
         "type": "common noun",
         "meaning": "hour",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "eis",
         "type": "common noun",
         "meaning": "ice",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "eerhoendred",
         "type": "common noun",
         "meaning": "century",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "leen",
         "type": "neuter noun",
         "meaning": "salary",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "speer",
         "type": "common noun",
         "meaning": "question",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "gven",
         "type": "common noun",
         "meaning": "woman",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "freind",
         "type": "common noun",
         "meaning": "friend",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "fornuft",
         "type": "common noun",
         "meaning": "reason",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "leiv",
         "type": "neuter noun",
         "meaning": "life",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "hoend",
         "type": "common noun",
         "meaning": "dog",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "hjol",
         "type": "neuter noun",
         "meaning": "wheel",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "aard",
         "type": "common noun",
         "meaning": "earth",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "dreeg",
         "type": "common noun",
         "meaning": "illusion",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "kveel",
         "type": "common noun",
         "meaning": "evening",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "maate",
         "type": "common noun",
         "meaning": "method",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "vindeej",
         "type": "neuter noun",
         "meaning": "window",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "eej",
         "type": "neuter noun",
         "meaning": "eye",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "seid",
         "type": "common noun",
         "meaning": "side",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "hoenger",
         "type": "common noun",
         "meaning": "hunger",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "goell",
         "type": "neuter noun",
         "meaning": "gold",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "bjor",
         "type": "common noun",
         "meaning": "beer",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "haal",
         "type": "neuter noun",
         "meaning": "hole",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "boi",
         "type": "common noun",
         "meaning": "boy",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "bedd",
         "type": "neuter noun",
         "meaning": "bed",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "gure",
         "type": "common noun",
         "meaning": "girl",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "daj",
         "type": "common noun",
         "meaning": "day",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "leikaam",
         "type": "common noun",
         "meaning": "body",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "bern",
         "type": "neuter noun",
         "meaning": "child",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "hals",
         "type": "common noun",
         "meaning": "neck",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "soelder",
         "type": "common noun",
         "meaning": "shoulder",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "veder",
         "type": "neuter noun",
         "meaning": "weather",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "fell",
         "type": "common noun",
         "meaning": "skin",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "feedinndaj",
         "type": "common noun",
         "meaning": "birthday",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "book",
         "type": "neuter noun",
         "meaning": "book",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "broo",
         "type": "common noun",
         "meaning": "bridge",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "leev",
         "type": "neuter noun",
         "meaning": "leaf",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "maan",
         "type": "common noun",
         "meaning": "moon",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "haar",
         "type": "neuter noun",
         "meaning": "hair",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "samvethaid",
         "type": "common noun",
         "meaning": "consciousness",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "snaav",
         "type": "common noun",
         "meaning": "snow",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "heed",
         "type": "neuter noun",
         "meaning": "head",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "brjost",
         "type": "neuter noun",
         "meaning": "breast",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "saar",
         "type": "neuter noun",
         "meaning": "wound",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "vante",
         "type": "irregular verb",
         "meaning": "to lack",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "see",
         "type": "irregular verb",
         "meaning": "to see",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "leide",
         "type": "irregular verb",
         "meaning": "to suffer",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "sloete",
         "type": "irregular verb",
         "meaning": "to close",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "urete",
         "type": "irregular verb",
         "meaning": "to forget",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "grooe",
         "type": "regular verb",
         "meaning": "to grow",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "hoele",
         "type": "regular verb",
         "meaning": "to cry",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "roesle",
         "type": "regular verb",
         "meaning": "to rustle",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "sveere",
         "type": "regular verb",
         "meaning": "to swear",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "kan",
         "type": "modal verb",
         "meaning": "can",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "sjole",
         "type": "regular verb",
         "meaning": "to hide",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "oetstjore",
         "type": "regular verb",
         "meaning": "to equip",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "staa",
         "type": "aa-verb",
         "meaning": "to stand",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "ljove",
         "type": "regular verb",
         "meaning": "to love",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "have",
         "type": "irregular verb",
         "meaning": "to have",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "forsveere",
         "type": "regular verb",
         "meaning": "to defend",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "gede",
         "type": "irregular verb",
         "meaning": "to get",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "fjoote",
         "type": "irregular verb",
         "meaning": "to fight",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "fljote",
         "type": "irregular verb",
         "meaning": "to fleet",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "ensulde",
         "type": "regular verb",
         "meaning": "to excuse",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "fille",
         "type": "regular verb",
         "meaning": "to fill",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "leere",
         "type": "regular verb",
         "meaning": "to learn",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "veene",
         "type": "regular verb",
         "meaning": "to wait",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "loese",
         "type": "regular verb",
         "meaning": "to listen",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "jare",
         "type": "regular verb",
         "meaning": "to do",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "entveige",
         "type": "regular verb",
         "meaning": "to develop",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "sleepe",
         "type": "regular verb",
         "meaning": "to sleep",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "heite",
         "type": "regular verb",
         "meaning": "to be called",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "broeke",
         "type": "regular verb",
         "meaning": "to use",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "marke",
         "type": "regular verb",
         "meaning": "to mark",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "drinke",
         "type": "regular verb",
         "meaning": "to drink",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "leje",
         "type": "regular verb",
         "meaning": "to lay",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "mae",
         "type": "regular verb",
         "meaning": "to make",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "kene",
         "type": "regular verb",
         "meaning": "to know",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "leige",
         "type": "regular verb",
         "meaning": "to like",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "tenke",
         "type": "regular verb",
         "meaning": "to think",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "vese",
         "type": "regular verb",
         "meaning": "to be",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "heere",
         "type": "regular verb",
         "meaning": "to hear",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "seeke",
         "type": "regular verb",
         "meaning": "to seek",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "freeje",
         "type": "regular verb",
         "meaning": "to ask",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "blaase",
         "type": "regular verb",
         "meaning": "to blow",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "seje",
         "type": "regular verb",
         "meaning": "to say",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "starve",
         "type": "regular verb",
         "meaning": "to die",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "ei",
         "type": "adverb",
         "meaning": "ever",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "maese",
         "type": "adverb",
         "meaning": "maybe",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "frei",
         "type": "adjective",
         "meaning": "free",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "deed",
         "type": "adjective",
         "meaning": "dead",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "vidlees",
         "type": "adjective",
         "meaning": "mad",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "dit",
         "type": "",
         "meaning": "tight",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "nev",
         "type": "adjective",
         "meaning": "new",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "slei",
         "type": "adjective",
         "meaning": "such",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "moj",
         "type": "adjective",
         "meaning": "pretty",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "maktful",
         "type": "adjective",
         "meaning": "powerful",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "droej",
         "type": "adjective",
         "meaning": "dry",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "joda",
         "type": "adverb",
         "meaning": "today",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "oet",
         "type": "adverb",
         "meaning": "out",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "oener",
         "type": "adverb",
         "meaning": "under",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "oer",
         "type": "about",
         "meaning": "",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "heer",
         "type": "adverb",
         "meaning": "here",
         "transcription": "",
-        "etymology": ""
+        "origin": "",
+        "origin word": "",
+        "old jotisk": "",
+        "middle jotisk": "",
+        "modern jotisk": ""
     },
     {
         "word": "boeve",
         "type": "regular verb",
         "meaning": "",
         "transcription": "/bœy̯və/",
-        "etymology": "from proto-germanic: būaną->bœwen->bœwe->boeve"
+        "origin": "proto-germanic",
+        "origin word": "būaną",
+        "old jotisk": "bœwen",
+        "middle jotisk": "bœwe",
+        "modern jotisk": "boeve"
     },
     {
         "word": "faame",
         "type": "regular verb",
         "meaning": "to hug",
         "transcription": "/'faːmə/",
-        "etymology": "from old norse: faðma->fadme->faame"
+        "origin": "old norse",
+        "origin word": "faðma",
+        "old jotisk": "fadme",
+        "middle jotisk": "",
+        "modern jotisk": "faame"
     },
     {
         "word": "aajne",
         "type": "regular verb",
         "meaning": "begin",
         "transcription": "/a:jnə/",
-        "etymology": "from proto-germanic: anaginnan-> āginnen->aaginne->aajne"
+        "origin": "proto-germanic",
+        "origin word": "anaginnan",
+        "old jotisk": "āginnen",
+        "middle jotisk": "aaginne",
+        "modern jotisk": "aajne"
     },
     {
         "word": "aide",
         "type": "common noun",
         "meaning": "aid",
         "transcription": "/aidə/",
-        "etymology": "from old french: aide->aide->aide"
+        "origin": "old french",
+        "origin word": "aide",
+        "old jotisk": "aide",
+        "middle jotisk": "",
+        "modern jotisk": "aide"
     },
     {
         "word": "oon",
         "type": "preposition",
         "meaning": "without",
         "transcription": "/un/",
-        "etymology": "from proto-germanic: ēnu->ōne->oone->oon"
+        "origin": "proto-germanic",
+        "origin word": "ēnu",
+        "old jotisk": "ōne",
+        "middle jotisk": "oone",
+        "modern jotisk": "oon"
     },
     {
         "word": "forbjode",
         "type": "irregular verb",
         "meaning": "to forbid",
         "transcription": "/foəbødə/",
-        "etymology": "from proto-germanic: furibeudaną->forbiūden->forbuude->forbjode"
+        "origin": "proto-germanic",
+        "origin word": "furibeudaną",
+        "old jotisk": "forbiūden",
+        "middle jotisk": "forbuude",
+        "modern jotisk": "forbjode"
     },
     {
         "word": "bern",
         "type": "neuter noun",
         "meaning": "child",
         "transcription": "/'bɛən/",
-        "etymology": "from proto-germanic: barną->barn->bern->bern"
+        "origin": "proto-germanic",
+        "origin word": "barną",
+        "old jotisk": "barn",
+        "middle jotisk": "bern",
+        "modern jotisk": "bern"
     },
     {
         "word": "aan",
         "type": "number",
         "meaning": "one",
         "transcription": "/a:n/",
-        "etymology": "from proto-germanic: ainaz->ain->aan->aan"
+        "origin": "proto-germanic",
+        "origin word": "ainaz",
+        "old jotisk": "ain",
+        "middle jotisk": "aan",
+        "modern jotisk": "aan"
     },
     {
         "word": "fjor",
         "type": "number",
         "meaning": "four",
         "transcription": "/'føə/",
-        "etymology": "from proto-west-germanic: feuwar->fiūwer->fuur->fjor"
+        "origin": "proto-west-germanic",
+        "origin word": "feuwar",
+        "old jotisk": "fiūwer",
+        "middle jotisk": "fuur",
+        "modern jotisk": "fjor"
     },
     {
         "word": "aate",
         "type": "number",
         "meaning": "eight",
-        "transcription": "/a:tə/",
-        "etymology": "from proto-germanic: ahtōu->ahta->ahte->aate"
+        "transcription": "/a:'tə/",
+        "origin": "proto-germanic",
+        "origin word": "ahtōu",
+        "old jotisk": "ahta",
+        "middle jotisk": "ahte",
+        "modern jotisk": "aate"
     }
 ]
