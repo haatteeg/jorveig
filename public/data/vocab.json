@@ -4,35 +4,35 @@
         "type": "neuter noun",
         "meaning": "branch",
         "transcription": "",
-        "etymology": ""
+        "etymology": "from proto-gemanic: twīgą->twīg->tviig->tveig"
     },
     {
         "word": "vanhoep",
         "type": "common noun",
         "meaning": "despair",
         "transcription": "",
-        "etymology": ""
+        "etymology": "from proto-germanic: wana- + hopō->wanahope->vanhupe->vanhoep"
     },
     {
         "word": "soer",
         "type": "common noun",
         "meaning": "sadness",
         "transcription": "",
-        "etymology": ""
+        "etymology": "from proto-germanic: surgō->sorge->sorje->soer"
     },
     {
-        "word": "hoep",
-        "type": "common noun",
-        "meaning": "hope",
+        "word": "hoepe",
+        "type": "regular verb",
+        "meaning": "to hope",
         "transcription": "",
-        "etymology": ""
+        "etymology": "from proto-germanic: hopōn->hopen->hupe->hoepe"
     },
     {
         "word": "leerdom",
         "type": "common noun",
         "meaning": "knowledge",
         "transcription": "",
-        "etymology": ""
+        "etymology": "from proto-west-germanic: liʀnōn + -dōm->lirdōm->lirdoom->leerdom"
     },
     {
         "word": "heeven",

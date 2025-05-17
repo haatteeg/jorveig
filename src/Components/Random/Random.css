@@ -6,6 +6,10 @@
     justify-content: space-between;
 }
 
+.random-word h2 {
+    font-size: 53px;
+}
+
 .scrambling {
     filter: blur(0.8px) brightness(0.8);
     color: #444;
