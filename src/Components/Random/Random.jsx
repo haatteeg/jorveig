@@ -3,7 +3,7 @@ import './Random.css';
 
 const LATIN = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const HISTORY_KEY = "randomWordHistory";
-const HISTORY_DURATION = 60 * 1000;
+const HISTORY_DURATION = 30 * 1000;
 
 const getRandomLetter = () => {
     return LATIN[Math.floor(Math.random() * LATIN.length)];
