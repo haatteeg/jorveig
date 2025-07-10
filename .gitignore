@@ -24,9 +24,3 @@ yarn-error.log*
 
 plan.txt
 
-#temp
-/src/Components/Main
-/src/Components/Nav
-/src/Components/Search
-/src/Components/Sidebar
-

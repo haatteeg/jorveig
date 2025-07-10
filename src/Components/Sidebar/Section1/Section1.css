@@ -1,0 +1,33 @@
+.info-section {
+    border-radius: 12px;
+    padding: 24px 18px;
+    width: 100%;
+}
+
+.info-section h1 {
+    font-size: 2rem;
+    margin-bottom: 0.3em;
+    margin-top: 0;
+    font-weight: 500;
+}
+
+.info-section h2 {
+    font-size: 1.1rem;
+    margin-bottom: 1em;
+    font-weight: 300;
+}
+
+.info-block {
+    margin-bottom: 1.5em;
+}
+
+.info-block h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.4em;
+}
+
+.info-block p {
+    font-size: 1rem;
+    color: #444;
+    line-height: 1.6;
+}
