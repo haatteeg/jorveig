@@ -1,6 +1,6 @@
 import './Main.css';
 import React from 'react';
-import { Random } from '../Search/Random/Random';
+import { Random } from './Random/Random';
 
 export const Main = ({ data }) => {
     return (

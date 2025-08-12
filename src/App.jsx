@@ -2,9 +2,9 @@ import './App.css';
 import { Nav } from './Components/Nav/Nav';
 import { Sidebar } from './Components/Sidebar/Sidebar';
 import { Main } from './Components/Main/Main';
-import { Section1 } from './Components/Sidebar/Section1/Section1';
 import { useData } from './Components/Function/useData';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { Vocabulary } from './Components/Main/Vocabulary/Vocabulary';
 
 function App() {
   const data = useData();
@@ -17,7 +17,7 @@ function App() {
           <Sidebar />
           <Routes>
             <Route path="/" element={<Main data={data} />} />
-            <Route path="/section1" element={<Section1 />} />
+            <Route path="/section1" element={<Vocabulary />} />
           </Routes>
         </div>
       </div>

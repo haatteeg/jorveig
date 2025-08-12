@@ -1,7 +1,7 @@
 import React from 'react';
-import './Section1.css';
+import './SectionX.css';
 
-export const Section1 = () => (
+export const SectionX = () => (
     <section className="info-section">
         <h1>Grammar</h1>
         <hr />
