@@ -3,7 +3,8 @@ import './Random.css';
 
 const LATIN = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const HISTORY_KEY = "randomWordHistory";
-const HISTORY_DURATION = 60 * 1000;
+const HISTORY_DURATION = 20 * 60 * 1000;
+const BATCH_SIZE = 20;
 
 const getRandomLetter = () => {
     return LATIN[Math.floor(Math.random() * LATIN.length)];
@@ -26,31 +27,54 @@ function addToHistory(word) {
     localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
 }
 
+function clearHistory() {
+    localStorage.removeItem(HISTORY_KEY);
+}
+
+function getAvailableWords(vocab, history) {
+    const recentWords = new Set(history.map(entry => entry.word));
+    return vocab.filter(v => !recentWords.has(v.word));
+}
+
+function getRandomBatch(vocab, history) {
+    let available = getAvailableWords(vocab, history);
+    if (available.length < BATCH_SIZE) {
+        clearHistory();
+        available = vocab.slice();
+    }
+    const shuffled = available.sort(() => Math.random() - 0.5);
+    return shuffled.slice(0, Math.min(BATCH_SIZE, shuffled.length));
+}
+
 export const Random = ({ vocab }) => {
     const [current, setCurrent] = useState(null);
     const [displayed, setDisplayed] = useState([]);
+    const [batch, setBatch] = useState([]);
+    const [batchIndex, setBatchIndex] = useState(0);
     const intervalRef = useRef(null);
     const timeoutRef = useRef(null);
 
     useEffect(() => {
         if (!vocab || vocab.length === 0) return;
-
-        const stored = localStorage.getItem("randomWord");
-        let initial = null;
-        if (stored) {
-            try {
-                const parsed = JSON.parse(stored);
-                if (parsed && vocab.some(v => v.word === parsed.word)) {
-                    initial = parsed;
-                }
-            } catch { }
-        }
-        if (initial) {
-            setCurrent(initial);
-        } else {
-            pickNewWord();
-        }
+        const history = getRecentHistory();
+        const newBatch = getRandomBatch(vocab, history);
+        setBatch(newBatch);
+        setBatchIndex(0);
+        setCurrent(newBatch[0]);
     }, [vocab]);
+
+    useEffect(() => {
+        if (!batch.length) return;
+        if (batchIndex >= batch.length) {
+            const history = getRecentHistory();
+            const newBatch = getRandomBatch(vocab, history);
+            setBatch(newBatch);
+            setBatchIndex(0);
+            setCurrent(newBatch[0]);
+        } else {
+            setCurrent(batch[batchIndex]);
+        }
+    }, [batchIndex, batch, vocab]);
 
     useEffect(() => {
         if (current) {
@@ -83,7 +107,7 @@ export const Random = ({ vocab }) => {
             if (lockIndex > word.length) {
                 clearInterval(intervalRef.current);
                 timeoutRef.current = setTimeout(() => {
-                    pickNewWord();
+                    setBatchIndex(idx => idx + 1);
                 }, 6500);
                 return;
             }
@@ -95,21 +119,7 @@ export const Random = ({ vocab }) => {
             clearInterval(intervalRef.current);
             clearTimeout(timeoutRef.current);
         };
-    }, [current, vocab]);
-
-    function pickNewWord() {
-        if (!vocab || vocab.length === 0) return;
-        const history = getRecentHistory();
-        const recentWords = new Set(history.map(entry => entry.word));
-        const available = vocab.filter(v => !recentWords.has(v.word));
-        let next;
-        if (available.length > 0) {
-            next = available[Math.floor(Math.random() * available.length)];
-        } else {
-            next = vocab[Math.floor(Math.random() * vocab.length)];
-        }
-        setCurrent(next);
-    }
+    }, [current]);
 
     if (!current) return null;
 

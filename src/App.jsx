@@ -16,8 +16,8 @@ function App() {
         <div className="content-area">
           <Sidebar />
           <Routes>
-            <Route path="/" element={<Main data={data} />} />
-            <Route path="/section1" element={<Vocabulary />} />
+            <Route path="/" element={<Main {...data} />} />
+            <Route path="/section1" element={<Vocabulary {...data} />} />
           </Routes>
         </div>
       </div>

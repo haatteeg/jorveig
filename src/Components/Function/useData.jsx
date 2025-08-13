@@ -6,7 +6,7 @@ export const useData = () => {
     useEffect(() => {
         const fetchData = async () => {
             const query = `{
-                toengmaalData_pl {
+                toengmaalData_pl(first: 100) {
                     word
                     type
                     meaning

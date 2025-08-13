@@ -3,3 +3,24 @@
     padding: 24px 18px;
     width: 100%;
 }
+
+.type-menu {
+    display: flex;
+    gap: 0.5em;
+    margin-bottom: 1em;
+}
+
+.type-brick {
+    padding: 0.5em 1.2em;
+    border: none;
+    border-radius: 20px;
+    background: #eee;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.type-brick.active {
+    background: #0078d4;
+    color: #fff;
+}
