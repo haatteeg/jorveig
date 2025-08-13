@@ -1,1 +1,1 @@
-Future wiktionary-like platform for jotisk toengmaal
+A language learning app in development
