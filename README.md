@@ -1,1 +1,1 @@
-A language learning app in development
+Upcoming project beta demo
